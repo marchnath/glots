@@ -1,0 +1,238 @@
+[
+  {
+    "id": 1,
+    "meaning": "When something is arduous, it demands great effort or labor.",
+    "phrases": ["arduous journey", "arduous task", "arduous climb"],
+    "tasks": [
+      {
+        "text": "The explorers began their {{hard}} hike up the steep mountain.",
+        "wordsToReplace": [{ "word": "hard", "correctAnswer": "arduous" }],
+        "hints": ["difficult", "arduous", "easy"]
+      },
+      {
+        "text": "Studying for the medical exam was an {{exhausting}} process.",
+        "wordsToReplace": [
+          { "word": "exhausting", "correctAnswer": "arduous" }
+        ],
+        "hints": ["arduous", "simple", "light"]
+      },
+      {
+        "text": "Climbing Mount Everest is an {{extremely tough}} challenge.",
+        "wordsToReplace": [
+          { "word": "extremely tough", "correctAnswer": "arduous" }
+        ],
+        "hints": ["arduous", "fun", "effortless"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "meaning": "To attain something means to gain or achieve it, often after a lot of effort.",
+    "phrases": ["attain success", "attain a goal", "attain mastery"],
+    "tasks": [
+      {
+        "text": "In two more years, I will {{get}} my high school diploma.",
+        "wordsToReplace": [{ "word": "get", "correctAnswer": "attain" }],
+        "hints": ["gain", "attain", "lose"]
+      },
+      {
+        "text": "She finally {{achieved}} her goal of becoming a lawyer.",
+        "wordsToReplace": [{ "word": "achieved", "correctAnswer": "attained" }],
+        "hints": ["attained", "failed", "ignored"]
+      },
+      {
+        "text": "The mountain climbers managed to {{reach}} the summit after many hours.",
+        "wordsToReplace": [{ "word": "reach", "correctAnswer": "attain" }],
+        "hints": ["attain", "descend", "miss"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "meaning": "To coexist with something means to exist with it in the same time and place.",
+    "phrases": ["coexist peacefully", "coexist in harmony", "coexist together"],
+    "tasks": [
+      {
+        "text": "Our pets {{live}} at our home with little or no problems.",
+        "wordsToReplace": [{ "word": "live", "correctAnswer": "coexist" }],
+        "hints": ["coexist", "fight", "cooperate"]
+      },
+      {
+        "text": "Different cultures can {{exist together}} peacefully in one city.",
+        "wordsToReplace": [
+          { "word": "exist together", "correctAnswer": "coexist" }
+        ],
+        "hints": ["coexist", "separate", "collide"]
+      },
+      {
+        "text": "The ancient ruins {{stood together}} with the modern buildings.",
+        "wordsToReplace": [
+          { "word": "stood together", "correctAnswer": "coexisted" }
+        ],
+        "hints": ["coexisted", "collapsed", "clashed"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "meaning": "To conceive something means to be able to imagine or believe it.",
+    "phrases": ["conceive an idea", "conceive a plan", "conceive a notion"],
+    "tasks": [
+      {
+        "text": "The child could not {{imagine}} the actual size of the Earth.",
+        "wordsToReplace": [{ "word": "imagine", "correctAnswer": "conceive" }],
+        "hints": ["believe", "conceive", "ignore"]
+      },
+      {
+        "text": "It was hard to {{believe}} that she had won the competition.",
+        "wordsToReplace": [{ "word": "believe", "correctAnswer": "conceive" }],
+        "hints": ["conceive", "doubt", "forget"]
+      },
+      {
+        "text": "The author {{created}} the idea for his new novel during a walk.",
+        "wordsToReplace": [{ "word": "created", "correctAnswer": "conceived" }],
+        "hints": ["conceived", "destroyed", "denied"]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "meaning": "When something or someone is dubious, they are not considered honest.",
+    "phrases": ["dubious claim", "dubious character", "dubious explanation"],
+    "tasks": [
+      {
+        "text": "The police thought that the man’s description of the crime was {{not honest}}.",
+        "wordsToReplace": [
+          { "word": "not honest", "correctAnswer": "dubious" }
+        ],
+        "hints": ["dubious", "trustworthy", "suspicious"]
+      },
+      {
+        "text": "The offer sounded {{uncertain}} and risky to investors.",
+        "wordsToReplace": [{ "word": "uncertain", "correctAnswer": "dubious" }],
+        "hints": ["dubious", "reliable", "secure"]
+      },
+      {
+        "text": "She gave him a {{questionable}} look after hearing his excuse.",
+        "wordsToReplace": [
+          { "word": "questionable", "correctAnswer": "dubious" }
+        ],
+        "hints": ["dubious", "clear", "honest"]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "meaning": "An ego is a person’s sense of their own worth.",
+    "phrases": ["inflated ego", "fragile ego", "big ego"],
+    "tasks": [
+      {
+        "text": "Kelly’s {{self-worth}} made her think that she was some kind of a superhero.",
+        "wordsToReplace": [{ "word": "self-worth", "correctAnswer": "ego" }],
+        "hints": ["ego", "pride", "shyness"]
+      },
+      {
+        "text": "His huge {{self-image}} caused him to argue with everyone.",
+        "wordsToReplace": [{ "word": "self-image", "correctAnswer": "ego" }],
+        "hints": ["ego", "humility", "fear"]
+      },
+      {
+        "text": "She let her {{pride}} get in the way of apologizing.",
+        "wordsToReplace": [{ "word": "pride", "correctAnswer": "ego" }],
+        "hints": ["ego", "humility", "kindness"]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "meaning": "Elastic is a rubber that stretches when it is pulled.",
+    "phrases": ["elastic band", "elastic fabric", "elastic material"],
+    "tasks": [
+      {
+        "text": "He attached the {{stretchy}} bungee to his legs before he jumped off the platform.",
+        "wordsToReplace": [{ "word": "stretchy", "correctAnswer": "elastic" }],
+        "hints": ["fragile", "elastic", "hard"]
+      },
+      {
+        "text": "The {{flexible}} band snapped back when stretched too far.",
+        "wordsToReplace": [{ "word": "flexible", "correctAnswer": "elastic" }],
+        "hints": ["elastic", "rigid", "brittle"]
+      },
+      {
+        "text": "The fabric is {{stretchable}}, making it perfect for sportswear.",
+        "wordsToReplace": [
+          { "word": "stretchable", "correctAnswer": "elastic" }
+        ],
+        "hints": ["elastic", "stiff", "hard"]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "meaning": "An endeavor is an attempt to do something, especially something new or original.",
+    "phrases": ["bold endeavor", "new endeavor", "challenging endeavor"],
+    "tasks": [
+      {
+        "text": "The company’s new advertising {{attempt}} ended in a horrible failure.",
+        "wordsToReplace": [{ "word": "attempt", "correctAnswer": "endeavor" }],
+        "hints": ["failure", "endeavor", "try"]
+      },
+      {
+        "text": "Starting his own business was a brave {{effort}}.",
+        "wordsToReplace": [{ "word": "effort", "correctAnswer": "endeavor" }],
+        "hints": ["endeavor", "mistake", "habit"]
+      },
+      {
+        "text": "Her charitable {{project}} helped many people in need.",
+        "wordsToReplace": [{ "word": "project", "correctAnswer": "endeavor" }],
+        "hints": ["endeavor", "failure", "plan"]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "meaning": "To engrave means to cut a design or words into the surface of something.",
+    "phrases": ["engrave initials", "engrave a name", "engrave a design"],
+    "tasks": [
+      {
+        "text": "The couple {{carved}} their names onto the old pine tree.",
+        "wordsToReplace": [{ "word": "carved", "correctAnswer": "engrave" }],
+        "hints": ["engrave", "scratch", "paint"]
+      },
+      {
+        "text": "The artist {{cut}} a design into the stone tablet.",
+        "wordsToReplace": [{ "word": "cut", "correctAnswer": "engraved" }],
+        "hints": ["engraved", "drew", "marked"]
+      },
+      {
+        "text": "He asked the jeweler to {{etch}} their initials on the ring.",
+        "wordsToReplace": [{ "word": "etch", "correctAnswer": "engrave" }],
+        "hints": ["engrave", "erase", "write"]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "meaning": "To excavate means to dig on land and remove dirt to look for something.",
+    "phrases": ["excavate a site", "excavate ruins", "excavate fossils"],
+    "tasks": [
+      {
+        "text": "The team wishes to {{dig}} the site in hopes of finding fossils.",
+        "wordsToReplace": [{ "word": "dig", "correctAnswer": "excavate" }],
+        "hints": ["excavate", "bury", "uncover"]
+      },
+      {
+        "text": "Workers began to {{remove dirt}} from the construction site.",
+        "wordsToReplace": [
+          { "word": "remove dirt", "correctAnswer": "excavate" }
+        ],
+        "hints": ["excavate", "cover", "hide"]
+      },
+      {
+        "text": "Archaeologists plan to {{uncover}} the ancient ruins buried in the sand.",
+        "wordsToReplace": [{ "word": "uncover", "correctAnswer": "excavate" }],
+        "hints": ["excavate", "bury", "ignore"]
+      }
+    ]
+  }
+]
